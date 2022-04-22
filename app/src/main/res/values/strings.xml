@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kotlin_3.1</string>
+    <string name="giveMeANumber">Введите числовой диапазон</string>
+    <string name="firstNumberText">Первое число</string>
+    <string name="secondNumberText">Второе число</string>
+    <string name="less">Меньше</string>
+    <string name="more">Больше</string>
+    <string name="goText">Вперёд!</string>
+    <string name="answer">Это моё число</string>
+</resources>
